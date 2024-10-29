@@ -7,7 +7,7 @@ body {
   margin: 0px;
   padding: 0px;
   font-family: "Roboto", sans-serif;
-  background-color: aqua;
+  background-color: aquamarine;
 }
 .navbar-default {
   background-color: #ecf0f1;
@@ -17,7 +17,7 @@ a i {
   padding-right: 15px;
 }
 .navbar-brand {
-  font-family: cursive;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .new-board {
